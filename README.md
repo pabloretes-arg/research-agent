@@ -6,7 +6,10 @@ It answers questions by reasoning in a **Thought → Action → Observation** lo
 
 ## Demo
 
-<!-- Drag research_agent_demo.mp4 here when editing this file on GitHub -->
+
+
+https://github.com/user-attachments/assets/f557b863-b68c-44a0-9935-9d813d58b83d
+
 
 ## What it can do
 
@@ -33,7 +36,7 @@ Example questions:
 ## Run it locally
 
 ```bash
-git clone https://github.com/<your-user>/research-agent.git
+git clone https://github.com/pabloretes-arg/research-agent.git
 cd research-agent
 python3 -m venv .venv
 source .venv/bin/activate
